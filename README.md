@@ -91,13 +91,13 @@ Create a new database called distributed_db. Inside it, create 2 collections:
 product_component, order_product
 
 ### 7. Run Main Application Loop
-    If you have a main.py with an interactive menu, run it:
+If you have a main.py with an interactive menu, run it:
     
 ```bash
     python main.py
 ```
-    Or 
-    After creation and setups of databases, project can be run by executing the run.bat file.
+Or
+After creation and setups of databases, project can be run by executing the run.bat file.
 
 ## Key Learnings & Concepts Demonstrated
 This project effectively illustrates:
